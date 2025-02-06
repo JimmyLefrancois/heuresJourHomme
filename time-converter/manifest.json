@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Hours to Man-Days Converter",
+  "version": "1.0",
+  "description": "Convert hours to man-days (7.45 hours per day)",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "icons/icon16.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png"
+  },
+  "permissions": [
+    "clipboardWrite"
+  ]
+}

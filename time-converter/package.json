@@ -1,0 +1,21 @@
+{
+  "name": "time-converter",
+  "version": "1.0.0",
+  "description": "A Vue.js application that converts hours into man-days.",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.15",
+    "vuetify": "^3.4.10"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.3",
+    "vite": "^5.0.12",
+    "vite-plugin-static-copy": "^2.2.0",
+    "vite-plugin-vuetify": "^2.1.0"
+  }
+}
